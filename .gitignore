@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# 本地编辑器/工具配置
+.claude/settings.local.json
