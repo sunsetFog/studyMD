@@ -1,0 +1,685 @@
+# 成考英语读音专项 · Pronunciation & Phonetics
+
+> 适用专业：商务管理（专升本·成考）
+> 本文件含 **100 条例句**，每条均含 **语句示例 / 语句翻译 / 语句解析**，按读音规则分类讲解。
+> **核心构成**：英语读音 = **48 个音标**（20 个元音 + 28 个辅音）+ **拼读规则**（开音节/闭音节）+ **重音与语调**。
+> **考试形式**：成考英语第一卷前 5 题通常为**语音知识题**——给出四个单词，选出**划线部分读音与其他三个不同**的一项。
+
+---
+
+## 音标总表：48 个国际音标（基础必背）
+
+> 英语共有 **48 个音标**：**20 个元音**（12 个单元音 + 8 个双元音）+ **28 个辅音**。
+> 语音题考的不是拼写，而是**划线字母落到哪个音标**，所以这张表是全篇的地基——先认表、再练题。
+
+### （一）元音音标（20 个）
+
+#### 1. 单元音（12 个）
+
+| 类别 | 音标 | 例词（成考高频） |
+| --- | --- | --- |
+| 前元音 | /iː/ | meet /miːt/、seat /siːt/、agreement /əˈɡriːmənt/ |
+| 前元音 | /ɪ/ | this /ðɪs/、business /ˈbɪznəs/、city /ˈsɪti/ |
+| 前元音 | /e/ | best /best/、bread /bred/、delivery /dɪˈlɪvəri/ |
+| 前元音 | /æ/ | map /mæp/、manager /ˈmænɪdʒə/、hand /hænd/ |
+| 中元音 | /ɜː/ | work /wɜːk/、confirm /kənˈfɜːm/、learn /lɜːn/ |
+| 中元音 | /ə/ | about /əˈbaʊt/、manager 末音节、teacher /ˈtiːtʃə/ |
+| 中元音 | /ʌ/ | company /ˈkʌmpəni/、money /ˈmʌni/、country /ˈkʌntri/ |
+| 后元音 | /ɑː/ | ask /ɑːsk/、class /klɑːs/、charge /tʃɑːdʒ/ |
+| 后元音 | /ɒ/ | office /ˈɒfɪs/、contract /ˈkɒntrækt/、want /wɒnt/ |
+| 后元音 | /ɔː/ | small /smɔːl/、floor /flɔː/、autumn /ˈɔːtəm/ |
+| 后元音 | /ʊ/ | good /ɡʊd/、book /bʊk/、could /kʊd/ |
+| 后元音 | /uː/ | food /fuːd/、soon /suːn/、blue /bluː/ |
+
+#### 2. 双元音（8 个）
+
+| 类别 | 音标 | 例词（成考高频） |
+| --- | --- | --- |
+| 合口双元音 | /eɪ/ | name /neɪm/、pay /peɪ/、eight /eɪt/ |
+| 合口双元音 | /aɪ/ | price /praɪs/、buy /baɪ/、night /naɪt/ |
+| 合口双元音 | /ɔɪ/ | point /pɔɪnt/、enjoy /ɪnˈdʒɔɪ/、employ /ɪmˈplɔɪ/ |
+| 合口双元音 | /əʊ/ | note /nəʊt/、boat /bəʊt/、slow /sləʊ/ |
+| 合口双元音 | /aʊ/ | south /saʊθ/、found /faʊnd/、now /naʊ/ |
+| 集中双元音 | /ɪə/ | hear /hɪə/、near /nɪə/、idea /aɪˈdɪə/ |
+| 集中双元音 | /eə/ | wear /weə/、share /ʃeə/、compare /kəmˈpeə/ |
+| 集中双元音 | /ʊə/ | tour /tʊə/、sure /ʃʊə/、Europe /ˈjʊərəp/ |
+
+### （二）辅音音标（28 个）
+
+| 类别 | 音标 | 例词（成考高频） |
+| --- | --- | --- |
+| 爆破音 | /p/、/b/ | price /praɪs/、big /bɪɡ/ |
+| 爆破音 | /t/、/d/ | train /treɪn/、deal /diːl/ |
+| 爆破音 | /k/、/ɡ/ | contract /ˈkɒntrækt/、goods /ɡʊdz/ |
+| 摩擦音 | /f/、/v/ | phone /fəʊn/、very /ˈveri/ |
+| 摩擦音 | /θ/、/ð/ | thank /θæŋk/、this /ðɪs/ |
+| 摩擦音 | /s/、/z/ | sales /seɪlz/、rise /raɪz/ |
+| 摩擦音 | /ʃ/、/ʒ/ | shipment /ˈʃɪpmənt/、usually /ˈjuːʒuəli/ |
+| 摩擦音 | /h/ | hand /hænd/、hope /həʊp/ |
+| 破擦音 | /tʃ/、/dʒ/ | chair /tʃeə/、manager /ˈmænɪdʒə/ |
+| 破擦音 | /tr/、/dr/ | train /treɪn/、dress /dres/ |
+| 破擦音 | /ts/、/dz/ | costs /kɒsts/、hands /hændz/ |
+| 鼻音 | /m/、/n/、/ŋ/ | make /meɪk/、need /niːd/、bank /bæŋk/ |
+| 舌侧音 | /l/ | line /laɪn/、small /smɔːl/ |
+| 半元音 | /r/、/j/、/w/ | right /raɪt/、year /jɪə/、we /wiː/ |
+
+> **补充**：/p/-/b/、/t/-/d/、/k/-/ɡ/、/f/-/v/、/θ/-/ð/、/s/-/z/、/ʃ/-/ʒ/、/tʃ/-/dʒ/、/tr/-/dr/、/ts/-/dz/ 是**十对清浊相对的辅音**，成考听力与语音题常以「清浊」为区分点。
+
+### （三）易混对比音组（语音题高频）
+
+| 对比音组 | 区分要点 | 例词对比 |
+| --- | --- | --- |
+| /iː/ – /ɪ/ | 长音 vs 短音 | seat /siːt/ – sit /sɪt/；feel – fill |
+| /æ/ – /e/ | 口型大 vs 小 | bad /bæd/ – bed /bed/ |
+| /uː/ – /ʊ/ | 长圆唇 vs 短圆唇 | food /fuːd/ – good /ɡʊd/ |
+| /ɑː/ – /ʌ/ | 口大张 vs 半开 | cart /kɑːt/ – cut /kʌt/ |
+| /ɔː/ – /ɒ/ | 长圆唇 vs 短圆唇 | caught /kɔːt/ – cot /kɒt/ |
+| /θ/ – /ð/ | 清 vs 浊 | thank /θæŋk/ – this /ðɪs/ |
+| /s/ – /z/ | 清 vs 浊 | rice /raɪs/ – rise /raɪz/ |
+| /ʃ/ – /tʃ/ | 不送气 vs 送气 | ship /ʃɪp/ – chip /tʃɪp/ |
+| /tʃ/ – /dʒ/ | 清 vs 浊 | cheap /tʃiːp/ – jeep /dʒiːp/ |
+| /n/ – /ŋ/ | 舌尖 vs 舌根 | sin /sɪn/ – sing /sɪŋ/ |
+
+### （四）音标与字母（组合）对应速查
+
+**元音部分：**
+
+| 音标 | 常见字母或字母组合 | 例词 |
+| --- | --- | --- |
+| /iː/ | e、ee、ea、ie、ei | me、see、eat、chief、receipt |
+| /ɪ/ | i、y、e | big、city、business |
+| /e/ | e、ea、a | best、bread、any |
+| /æ/ | a | map、manager、hand |
+| /ɑː/ | a（在 ss / sk / st / f / th 前）、ar | ask、class、charge |
+| /ɒ/ | o、a（在 w 后） | office、want |
+| /ɔː/ | or、al、au、aw、oor | form、small、autumn、law、floor |
+| /ʊ/ | oo、u、ou | good、push、could |
+| /uː/ | oo、u、ue、ew | food、blue、new |
+| /ʌ/ | u、o、ou | company、money、country |
+| /ɜː/ | ir、ur、er、or、ear | first、turn、her、word、learn |
+| /ə/ | 非重读音节中的 a / e / o / u | about、manager、offer |
+| /eɪ/ | a、ai、ay、eigh | name、train、pay、eight |
+| /aɪ/ | i、y、igh、ie | price、my、night、client |
+| /ɔɪ/ | oi、oy | point、enjoy |
+| /əʊ/ | o、oa、ow | note、boat、slow |
+| /aʊ/ | ou、ow | south、now |
+| /ɪə/ | ear、eer、ere | hear、engineer、here |
+| /eə/ | air、are、ear | fair、share、wear |
+| /ʊə/ | our、ure | tour、sure |
+
+**辅音部分：**
+
+| 音标 | 常见字母或字母组合 | 例词 |
+| --- | --- | --- |
+| /k/ | c、k、ck、ch、qu | contract、keep、back、school、quote |
+| /s/ | s、c（在 e / i / y 前）、ss | sales、city、class |
+| /z/ | z、s（在元音后） | zero、rise、bags |
+| /f/ | f、ph、gh | file、phone、enough |
+| /dʒ/ | g（在 e / i / y 前）、j、dg | manager、just、bridge |
+| /tʃ/ | ch、tch | chair、watch |
+| /ʃ/ | sh、ti、ci | shipment、station、special |
+| /θ/、/ð/ | th | thank、this |
+| /ŋ/ | n（在 k / g 前）、ng | bank、long |
+
+### （五）音标常用符号
+
+| 符号 | 名称 | 作用 | 示例 |
+| --- | --- | --- | --- |
+| ˈ | 主重音 | 标在重读音节**前** | contract /ˈkɒntrækt/ |
+| ˌ | 次重音 | 标在次重读音节前 | information /ˌɪnfəˈmeɪʃn/ |
+| ː | 长音符号 | 表示该元音要拉长 | /iː/、/ɑː/、/ɔː/ |
+| ( ) | 可读音 | 括号内的音可读可不读 | company /ˈkʌmp(ə)ni/ |
+
+> 注：成考教材多用**英式音标**（如 /ɒ/、/əʊ/）；部分资料用美式音标（/ɑ/、/oʊ/），二者指同一个音，做题时以题干和教材为准。
+
+---
+
+## 一、用法总览
+
+| 部分 | 知识点 | 关键内容 | 句序 |
+| --- | --- | --- | --- |
+| 音标总表 | 48 个国际音标 | 20 元音 + 28 辅音 / 例词 / 对比音组 | — |
+| 第一部分 | 元音字母的读音 | a / e / i / o / u 的开闭音节 | 1–16 |
+| 第二部分 | 元音字母组合的读音 | ai / ea / ee / oo / ou / ow 等 | 17–32 |
+| 第三部分 | 辅音字母与辅音组合 | -s / -ed / th / ch / gh 等 | 33–50 |
+| 第四部分 | 单词重音 | 双音节/多音节/词性变音 | 51–66 |
+| 第五部分 | 句子重音与语调 | 弱读 / 连读 / 升降调 / 商务朗读 | 67–86 |
+| 第六部分 | 语音知识题实战 | 易混辨析与解题技巧 | 87–100 |
+
+> 学习提示：语音题**不考拼写、不考词义**，只考**划线字母或字母组合的发音**。因此复习时要做的第一件事，不是背单词，而是**按发音给单词归类**：把同一组发音相同的词写在一起对照记忆。
+> 本文件每条例句均取自**成考高频词与商务场景用语**，读完一条就朗读一遍，效果最好。
+
+---
+
+# 第一部分：元音字母的读音（第 1–16 条）
+
+### 知识点 1：元音字母 a 在开音节中读 /eɪ/
+
+**1.** My name is Li Hua, and I work in a trade company.
+- **翻译**：我叫李华，在一家贸易公司工作。
+- **解析**：name 是「a + 辅音 + 不发音 e」的**开音节**，a 读字母本音 **/eɪ/**；trade 同理读 /treɪd/。对比 bag /bæɡ/ 为闭音节，读 /æ/。
+
+**2.** We plan to make a payment today.
+- **翻译**：我们计划今天付款。
+- **解析**：make 中 a 因有词尾不发音 e 而读 **/eɪ/**；plan 中 a 后直接跟辅音结尾，为**闭音节**读 **/æ/**，两个 a 发音不同，是语音题常考对比。
+
+### 知识点 2：元音字母 a 在闭音节中读 /æ/
+
+**3.** The manager has a map of the new market.
+- **翻译**：经理有一张新市场的地图。
+- **解析**：manager 第一个 a 在闭音节中读 **/æ/**，第二个 a 在非重读音节弱化为 **/ə/**；map、market 中的 a 均读 /æ/。
+
+**4.** Please hand me the contract before Friday.
+- **翻译**：请在周五前把合同交给我。
+- **解析**：hand 与 contract 的第一个音节中的 a 都读 **/æ/**；contract 重音在第一个音节 /ˈkɒntrækt/。
+
+### 知识点 3：元音字母 a 在 ss / sk / sp / st / f / th 前读 /ɑː/
+
+**5.** We must ask for a lower price first.
+- **翻译**：我们必须先要求一个更低的价格。
+- **解析**：ask 中 a 后接 sk，读长音 **/ɑː/**；last /lɑːst/、fast /fɑːst/ 同理，这是英式读音的常见规则。
+
+**6.** After class we discuss the sales report.
+- **翻译**：课后我们讨论销售报告。
+- **解析**：after、class、sales 中的 a 在 f、ss 前均读 **/ɑː/**，注意不能读成 /æ/，这是语音题高频点。
+
+### 知识点 4：元音字母 e 在开音节中读 /iː/
+
+**7.** He agreed to meet me at the company gate.
+- **翻译**：他同意在公司门口见我。
+- **解析**：these、me、meet 中 e / ee 读长音 **/iː/**；gate 是开音节，a 读 /eɪ/，一句话里包含两个典型开音节。
+
+**8.** We need three complete copies of the file.
+- **翻译**：我们需要这份文件的三份完整副本。
+- **解析**：need、three、complete 中的 e 或 ee 均读 **/iː/**；complete 重音在第二音节 /kəmˈpliːt/。
+
+### 知识点 5：元音字母 e 在闭音节中读 /e/
+
+**9.** The best price we can offer is ten percent lower.
+- **翻译**：我们能提供的最优价格是低百分之十。
+- **解析**：best、ten、percent 中的 e 都在**闭音节**中，读短音 **/e/**；offer 的第一个音节也读 /e/。
+
+**10.** Let me check the delivery date again.
+- **翻译**：让我再确认一下交货日期。
+- **解析**：let、check 中 e 读 **/e/**；delivery 的第二个 e 在非重读音节弱化为 /ə/，可见 e 的位置决定读音。
+
+### 知识点 6：元音字母 i / y 在开音节中读 /aɪ/
+
+**11.** I will buy five items online.
+- **翻译**：我要在网上买五件商品。
+- **解析**：I、five 中 i 读 **/aɪ/**；buy 中 uy 也读 /aɪ/，与 by 同音，是语音题的经典同音组。
+
+**12.** The price of rice is rising this year.
+- **翻译**：今年大米的价格在上涨。
+- **解析**：price、rice 中 i 在开音节读 **/aɪ/**；rising 中 y 也读 /aɪ/，但写在词尾的 y 常读 /i/，要注意位置。
+
+### 知识点 7：元音字母 i 在闭音节中读 /ɪ/
+
+**13.** This is a big business with sixty staff.
+- **翻译**：这是一家拥有六十名员工的大企业。
+- **解析**：this、big、business、sixty 中的 i 均在闭音节中读短音 **/ɪ/**；business 读作 /ˈbɪznəs/，i 不发音。
+
+**14.** Please fill in this form and sign here.
+- **翻译**：请填写这张表格并在这里签名。
+- **解析**：fill、in、this 中的 i 读 **/ɪ/**；sign 中 i 在开音节中读 /aɪ/，同句对比记忆。
+
+### 知识点 8：元音字母 o 在开音节中读 /əʊ/
+
+**15.** Our company hopes to open a new office.
+- **翻译**：我们公司希望开设一个新办事处。
+- **解析**：hopes、open、office 的第一个音节中 o 读 **/əʊ/**；注意 office 读 /ˈɒfɪs/ 时 o 实为短音，重音位置影响读音。
+
+**16.** Please note the total amount on the receipt.
+- **翻译**：请注意收据上的总金额。
+- **解析**：note、total 中 o 读 **/əʊ/**；receipt 中的 e 和 p 均不发音，读 /rɪˈsiːt/，是拼写与读音差异的典型词。
+
+---
+
+# 第二部分：元音字母组合的读音（第 17–32 条）
+
+### 知识点 9：元音字母组合 ai / ay 读 /eɪ/
+
+**17.** We will pay for the goods in cash.
+- **翻译**：我们将用现金支付货款。
+- **解析**：pay 中 ay 读 **/eɪ/**；与 name 中的 a 同音，因此 name / pay / make 构成同一发音组。
+
+**18.** The train will arrive at eight o'clock.
+- **翻译**：火车将于八点到达。
+- **解析**：train、eight 中的 ai / eigh 均读 **/eɪ/**；eight 中 gh 完全不发音。
+
+### 知识点 10：元音字母组合 ea 的三种读音
+
+**19.** We each have a seat at the meeting.
+- **翻译**：我们每人在会上都有一个座位。
+- **解析**：each、seat 中 ea 读 **/iː/**，是 ea 最常见的读音；treat、clean 也属这一组。
+
+**20.** Please read the contract before you sign.
+- **翻译**：请在你签字前阅读合同。
+- **解析**：read 原形中 ea 读 **/iː/**，但过去式和过去分词 read 读 **/red/**，拼写不变、读音改变，是成考易错点。
+
+**21.** The manager is ready to hear the report.
+- **翻译**：经理已准备好听取报告。
+- **解析**：ready 中 ea 读 **/e/**，与 bread / bred/、head /hed/ 同组；hear 中 ear 读 /ɪə/。
+
+### 知识点 11：元音字母组合 ee / ei / ie 读 /iː/
+
+**22.** Please keep the receipt in a safe place.
+- **翻译**：请把收据放在安全的地方。
+- **解析**：keep、receipt 中的 ee / ei 读 **/iː/**；receive 中的 ei 也读 /iː/，即「i 前 e 后」的拼写规则。
+
+**23.** The chief officer will meet the client.
+- **翻译**：主管将接待这位客户。
+- **解析**：chief、client 中 ie 读 **/aɪ/** 或 /iː/ 需分清：chief 读 /tʃiːf/ 为 **/iː/**，client 读 /ˈklaɪənt/ 为 **/aɪ/**。
+
+### 知识点 12：元音字母组合 oa / ow / oe 读 /əʊ/
+
+**24.** Please send the goods by boat or plane.
+- **翻译**：请用船或飞机运送货物。
+- **解析**：boat 中 oa 读 **/əʊ/**；slow、show、know 中的 ow 也读 /əʊ/，构成同一组。
+
+**25.** The sales volume will grow slowly this quarter.
+- **翻译**：本季度销量将缓慢增长。
+- **解析**：grow、slowly 中 ow 读 **/əʊ/**；但 now、how、cow 中 ow 读 **/aʊ/**，两组必须分开记。
+
+**26.** We quote a low price for large orders.
+- **翻译**：对于大额订单我们报较低的价格。
+- **解析**：low 中 ow 读 **/əʊ/**；quote 中 u 后接不发音 e 读 /kwəʊt/，与 coat 同音。
+
+### 知识点 13：元音字母组合 oo 的两种读音
+
+**27.** The goods will be delivered soon.
+- **翻译**：货物很快就会送达。
+- **解析**：goods、soon 中 oo 读**长音 /uː/**；food、moon、room 同组，这是 oo 最常见的读音。
+
+**28.** Please take a good look at the sample.
+- **翻译**：请好好看看这个样品。
+- **解析**：good、look 中 oo 读**短音 /ʊ/**；同类还有 book、cook、foot，与 /uː/ 组必须区分。
+
+**29.** The meeting room is on the second floor.
+- **翻译**：会议室在二楼。
+- **解析**：room 中 oo 读 /uː/；但 floor 中 oor 读 **/ɔː/**，与 door 同组，属于特殊读音。
+
+### 知识点 14：元音字母组合 ou / ow 读 /aʊ/
+
+**30.** The company is located in the south of the city.
+- **翻译**：这家公司位于城市南部。
+- **解析**：south 中 ou 读 **/aʊ/**；house、about、loud 同组；但 southern 中的 ou 反而读 /ʌ/。
+
+**31.** We found that the market is growing fast.
+- **翻译**：我们发现市场正在快速增长。
+- **解析**：found 中 ou 读 **/aʊ/**；但 soul /səʊl/、should /ʃʊd/ 中的 ou 读音完全不同，须单独记。
+
+### 知识点 15：元音字母组合 au / aw / al 读 /ɔː/
+
+**32.** The buyer always asks for a small discount.
+- **翻译**：买方总是要求一点折扣。
+- **解析**：always、small 中的 al 读 **/ɔː/**；autumn、law、draw 中的 au、aw 也读 /ɔː/，构成同一发音组。
+
+---
+
+# 第三部分：辅音字母与辅音组合的读音（第 33–50 条）
+
+### 知识点 16：辅音字母 c 读 /k/ 与 /s/
+
+**33.** The company can contact us by phone.
+- **翻译**：这家公司可以通过电话联系我们。
+- **解析**：company、can、contact 中的 c 后接 a、o、辅音时读 **/k/**；只有 c 后接 e、i、y 时才读 **/s/**，如 city、centre。
+
+**34.** The city centre has a nice office.
+- **翻译**：市中心有一间不错的办公室。
+- **解析**：city、centre、nice 中的 c 后接 i、e，读 **/s/**，与上一条的 /k/ 形成典型对比组。
+
+### 知识点 17：辅音字母 g 读 /ɡ/ 与 /dʒ/
+
+**35.** Please give me a good suggestion.
+- **翻译**：请给我一个好建议。
+- **解析**：give、good 中 g 读 **/ɡ/**；suggestion 中 gg 也读 /dʒ/，读 /səˈdʒestʃən/，注意与其拼写相差很大。
+
+**36.** The manager will suggest a new program.
+- **翻译**：经理将建议一个新方案。
+- **解析**：manager 中 g 读 **/dʒ/**（ge 组合），suggest 中 g 也读 /dʒ/；但 program 中 g 读 /ɡ/。
+
+### 知识点 18：辅音字母 s 的两种读音 /s/ 与 /z/
+
+**37.** The sales figures rise every season.
+- **翻译**：销售额每个季度都在上升。
+- **解析**：sales、figures 中 s 因位于**元音后**读 **/z/**；rise 中 s 也读 /z/，而 promise 中 s 读 /s/，需看词性。
+
+**38.** He says the price is reasonable.
+- **翻译**：他说这个价格是合理的。
+- **解析**：says 读 /sez/，s 为 **/z/**；表示「说」的 say 中 s 读 /s/，says 的读音是不规则的特殊情况。
+
+### 知识点 19：名词复数与动词第三人称单数的 -s / -es 读音
+
+**39.** The shops sell bags, books and boxes.
+- **翻译**：这些商店出售包、书和盒子。
+- **解析**：bags 中 s 前为**浊辅音 g**，读 **/z/**；books 中 s 前为**清辅音 k**，读 **/s/**；boxes 中 -es 读 **/ɪz/**，三条规则一次掌握。
+
+**40.** The prices of buses and watches are rising.
+- **翻译**：公交车和手表的价格在上涨。
+- **解析**：buses、watches 以 s、ch 结尾，加 -es 后读 **/ɪz/**；这是语音题常考的「+es 发 /ɪz/」规则。
+
+### 知识点 20：规则动词过去式 -ed 的三种读音
+
+**41.** We worked hard and finished the report.
+- **翻译**：我们努力工作并完成了报告。
+- **解析**：worked 中 -ed 前是**清辅音 k**，读 **/t/**；finished 中 -ed 前是清辅音 /ʃ/，也读 **/t/**，两者同组。
+
+**42.** The manager called me and asked for the file.
+- **翻译**：经理打电话给我，索要那份文件。
+- **解析**：called 中 -ed 前是**浊辅音 l**，读 **/d/**；asked 中 -ed 前是清辅音 k，读 /t/，同一句中两种读音对比。
+
+**43.** The report was completed and submitted on time.
+- **翻译**：报告已按时完成并提交。
+- **解析**：completed、submitted 中 -ed 前是**t、d**，读 **/ɪd/**；这是 -ed 三种读音中的第三种，也是唯一多一个音节的。
+
+### 知识点 21：辅音字母组合 th 的两种读音
+
+**44.** Thank you for your help with this order.
+- **翻译**：感谢你在这份订单上的帮助。
+- **解析**：thank、with、this 中 th 分别读 **/θ/** 与 **/ð/**：thank /θæŋk/、with /wɪð/、this /ðɪs/，以「实词多用 /θ/、虚词多用 /ð/」辅助记忆。
+
+**45.** I think the weather will be better tomorrow.
+- **翻译**：我认为明天天气会好转。
+- **解析**：think、weather 中 th 分别读 **/θ/** 与 **/ð/**；同一句中 th 两种读音并存，是语音题的高频素材。
+
+### 知识点 22：辅音字母组合 ch / sh / tch 的读音
+
+**46.** The chairman will check the shipment.
+- **翻译**：董事长将检查这批货物。
+- **解析**：chairman、check 中 ch 读 **/tʃ/**；shipment 中 sh 读 **/ʃ/**，读音清浊与口型都不同，须分别记忆。
+
+**47.** Our teacher teaches business English.
+- **翻译**：我们的老师教商务英语。
+- **解析**：teacher、teaches 中 ch 读 **/tʃ/**；但 school、chemistry 中 ch 读 **/k/**，technology 中 ch 也读 /k/。
+
+### 知识点 23：辅音字母组合 gh / ph / wh 的读音
+
+**48.** The freight is enough to cover the cost.
+- **翻译**：运费足以支付成本。
+- **解析**：enough 中 gh 读 **/f/**；high、night 中 gh 完全不发音；freight 中 eigh 读 /eɪ/，三种情况都要记住。
+
+**49.** We will phone the customer in a while.
+- **翻译**：我们过一会儿给客户打电话。
+- **解析**：phone 中 ph 读 **/f/**，与 f 同音；wh 在 what、when 中读 **/w/**，但在 who 中读 /h/，注意区分。
+
+**50.** Who will take charge of the whole project?
+- **翻译**：谁将负责整个项目？
+- **解析**：who、whole 中 wh 读 **/h/**（whole 读 /həʊl/，w 不发音）；charge 中 ch 读 /tʃ/、g 读 /dʒ/，一句多规则，适合综合复习。
+
+---
+
+# 第四部分：单词重音（第 51–66 条）
+
+### 知识点 24：双音节词「名前动后」——名词重音在前，动词重音在后
+
+**51.** We must record the record of the meeting.
+- **翻译**：我们必须记录下这次会议的记录。
+- **解析**：第一个 record 是动词，重音在**后**音节 /rɪˈkɔːd/；第二个 record 是名词，重音在**前**音节 /ˈrekɔːd/，拼写相同、重音不同。
+
+**52.** We need to increase the increase in sales.
+- **翻译**：我们需要提高销量的增长幅度。
+- **解析**：increase 作动词重音在后 /ɪnˈkriːs/；作名词重音在前 /ˈɪnkriːs/，同类的还有 import、export、contract。
+
+**53.** They will export the export contract to Asia.
+- **翻译**：他们将把出口合同出口到亚洲。
+- **解析**：export 动词重音在第二音节 /ɪkˈspɔːt/，名词重音在第一音节 /ˈekspɔːt/；export contract 中 contract 作名词重音也在前。
+
+### 知识点 25：多音节词重音常在倒数第三个音节
+
+**54.** The company's economy is improving.
+- **翻译**：公司的经济状况正在好转。
+- **解析**：economy 重音在第二音节 /ɪˈkɒnəmi/；economic 重音反而在第三音节 /ˌiːkəˈnɒmɪk/，同族词重音会移动。
+
+**55.** We discuss the development of the market.
+- **翻译**：我们讨论市场的发展。
+- **解析**：development 重音在第二音节 /dɪˈveləpmənt/；同类多音节词如 important /ɪmˈpɔːtənt/ 重音也落在倒数第三音节。
+
+**56.** The department has an efficient team.
+- **翻译**：这个部门有一个高效的团队。
+- **解析**：efficient 重音在第二音节 /ɪˈfɪʃnt/；department 重音也在第二音节 /dɪˈpɑːtmənt/，多音节词重音随后缀变化。
+
+### 知识点 26：后缀对重音的影响
+
+**57.** We reach an agreement on the -tion ending.
+- **翻译**：我们就 -tion 结尾词的读音达成了一致。
+- **解析**：以 **-tion** 结尾的词（agreement 除外，如 information、organization）重音一律落在 **-tion 前一个音节**，读 /ʃn/，如 information /ˌɪnfəˈmeɪʃn/。
+
+**58.** The organization will hold a presentation.
+- **翻译**：该组织将举办一场展示会。
+- **解析**：organization 重音在 /ˈzeɪ/ 前，读 /ˌɔːɡənaɪˈzeɪʃn/；presentation 重音在 /ˈteɪ/ 前，规律完全相同。
+
+**59.** Our products are very popular in this city.
+- **翻译**：我们的产品在这座城市很受欢迎。
+- **解析**：**-ity、-ical、-ious** 结尾的词重音通常落在这些后缀**前一个音节**：popular /ˈpɒpjələ/，但 popularity /ˌpɒpjuˈlærəti/ 重音后移。
+
+### 知识点 27：词尾不发音字母与读音变化
+
+**60.** The customer's clothes are on the shelf.
+- **翻译**：这位顾客的衣服在架子上。
+- **解析**：clothes 中 -th- 与 -es 连读为 /kləʊðz/；但类似 spelling 中词尾 e 不发音，只影响前面元音的读音。
+
+**61.** Please write your name on the line.
+- **翻译**：请在线条上写下你的名字。
+- **解析**：write 和 line 词尾 e 均不发音，其作用是把前面的元音「撑开」成开音节，故 i 读 **/aɪ/**，这是开音节规则的本质。
+
+### 知识点 28：同形异音词（重音与词义）
+
+**62.** The contract will be signed this week.
+- **翻译**：合同将于本周签署。
+- **解析**：contract 作名词读 /ˈkɒntrækt/；但 contract 作动词「收缩」读 /kənˈtrækt/，商务语境中多作名词，重音在前。
+
+**63.** We import goods and export services.
+- **翻译**：我们进口货物，出口服务。
+- **解析**：此处 import 与 export 均作**动词**，重音都在**后**：/ɪmˈpɔːt/、/ɪkˈspɔːt/；作名词时才重音前移。
+
+### 知识点 29：商务高频词重音速记
+
+**64.** The manager and the accountant will attend the interview.
+- **翻译**：经理和会计将参加这次面试。
+- **解析**：manager /ˈmænɪdʒə/ 重音在前，accountant /əˈkaʊntənt/ 重音在第二音节，interview /ˈɪntəvjuː/ 重音在前，三者同为商务高频词。
+
+**65.** Our advertisement will appear on the Internet.
+- **翻译**：我们的广告将出现在互联网上。
+- **解析**：advertisement 英式读 /ədˈvɜːtɪsmənt/，重音在第二音节；Internet /ˈɪntənet/ 重音在第一音节，注意 -net 不重读。
+
+**66.** Please confirm the delivery of the samples.
+- **翻译**：请确认样品的交货情况。
+- **解析**：confirm 重音在第二音节 /kənˈfɜːm/；delivery 重音在第二音节 /dɪˈlɪvəri/，注意不能把重音读在第一音节。
+
+---
+
+# 第五部分：句子重音、弱读与语调（第 67–86 条）
+
+### 知识点 30：句子重音——实词重读、虚词弱读
+
+**67.** I want to BUY three TICKETS for TONIGHT.
+- **翻译**：我想买三张今晚的票。
+- **解析**：句子重音落在**实词**（动词 buy、名词 tickets、副词 tonight）上；I、to、for 等虚词弱读，整句形成「轻重交替」的节奏。
+
+**68.** We will SEND the SAMPLES to your OFFICE.
+- **翻译**：我们将把样品送到你们的办公室。
+- **解析**：重读 send、samples、office；will、the、to、your 弱读。成考听力朗读也遵循此规律，抓住重读词即可抓住句意。
+
+**69.** The MANAGER WANTS a NEW CONTRACT.
+- **翻译**：经理想要一份新合同。
+- **解析**：manager、wants、new、contract 均重读；the、a 弱读为 /ðə/、/ə/，弱读是听懂快速英语的关键。
+
+### 知识点 31：虚词的强读与弱读
+
+**70.** I can speak English, but I can't speak French.
+- **翻译**：我会说英语，但我不会说法语。
+- **解析**：can 在肯定句中弱读为 /kən/，在 can't 中**必须强读**且清晰，因此 /kæn/ 与 /kɑːnt/ 的对比是听力的关键。
+
+**71.** Give it to him, and he will give it to her.
+- **翻译**：把它给他，然后他会把它给她。
+- **解析**：to 弱读 /tə/，him 弱读 /ɪm/，her 弱读 /ə/；同一虚词在句中出现多次时一律弱读，只保留实词重音。
+
+**72.** Which of them is your client?
+- **翻译**：他们中哪一个是你的客户？
+- **解析**：which 在句中通常重读，of 弱读 /əv/，them 弱读 /ðəm/；疑问词重读是英语语调的基本要求。
+
+### 知识点 32：连读
+
+**73.** Please pick up the phone and call us.
+- **翻译**：请拿起电话打给我们。
+- **解析**：pick up 中 k 与 u **连读**为 /pɪˈkʌp/；call us 中 l 与 u 连读为 /ˈkɔːləs/，连读使句子更流畅。
+
+**74.** Let me take an order for you.
+- **翻译**：让我替你接一个订单。
+- **解析**：take an 中 k 与 a 连读为 /teɪˈkæn/；an order 中 n 与 o 连读为 /əˈnɔːdə/，连读时单词界限变得模糊。
+
+**75.** We will meet at eight in the office.
+- **翻译**：我们八点在办公室见面。
+- **解析**：meet at 中 t 与 a 连读为 /ˈmiːtæt/；eight in 中 t 与 i 连读，整句朗读时几乎连成一串。
+
+### 知识点 33：不完全爆破与失爆
+
+**76.** We need a good plan for the contract.
+- **翻译**：我们需要一份好的合同方案。
+- **解析**：good plan 中 d 与 p 相遇，d **只做口型不送气**（不完全爆破）；contract 中 k 与 t 同样如此，读起来更自然。
+
+**77.** Take care of the big problem first.
+- **翻译**：先处理这个大问题。
+- **解析**：take care、big problem 中爆破音相邻，前一个**失去爆破**；这是英语朗读中非常普遍的现象。
+
+### 知识点 34：升调与降调
+
+**78.** Are you ready for the meeting?
+- **翻译**：你准备好开会了吗？
+- **解析**：一般疑问句用**升调**，句末声调上扬；这是成考朗读与听力判断句型的语音基础。
+
+**79.** We will deliver the goods tomorrow.
+- **翻译**：我们明天交货。
+- **解析**：陈述句用**降调**，句末声调下降；陈述句用升调会被误认为疑问，影响交际。
+
+**80.** When will the shipment arrive?
+- **翻译**：货物什么时候到达？
+- **解析**：特殊疑问句用**降调**，因为疑问词已表明提问性质，句末不再上扬，与一般疑问句形成对比。
+
+**81.** Would you like tea, coffee, or water?
+- **翻译**：你想要茶、咖啡还是水？
+- **解析**：选择疑问句中**前项升调、最后一项降调**；并列项多时，前面各项均升调，最后一项降调。
+
+### 知识点 35：商务场景朗读要点
+
+**82.** Good morning, ladies and gentlemen. Welcome to our annual meeting.
+- **翻译**：女士们、先生们，早上好。欢迎参加我们的年会。
+- **解析**：问候语后**稍作停顿**，「Good morning」用降调，称呼语用升调，整句庄重有礼，适合会议致辞朗读。
+
+**83.** May I have your attention, please?
+- **翻译**：请大家注意一下，好吗？
+- **解析**：礼貌请求用**升调**收尾，May I 轻快带过；商务场合语调过重会显得不礼貌，因此语音也有「礼仪」作用。
+
+**84.** Thank you for your order. We look forward to working with you.
+- **翻译**：感谢您的订单。期待与您合作。
+- **解析**：两句均为降调收束，句间停顿分明；thank you 中 th 读 /θ/，是商务邮件结尾常读的句子。
+
+**85.** I'm sorry, but we cannot accept that price.
+- **翻译**：抱歉，我们不能接受那个价格。
+- **解析**：拒绝时要**先降后升**表达歉意与拒绝：I'm sorry 降调，that price 重读并降调，态度坚定而不失礼貌。
+
+**86.** Could you please send us the latest catalogue?
+- **翻译**：能否请您给我们寄最新目录？
+- **解析**：Could you please 弱读连读，句末 catalogue /ˈkætəlɒɡ/ 重读并用升调；catalogue 是商务函电高频词，注意重音在第一音节。
+
+---
+
+# 第六部分：语音知识题实战（第 87–100 条）
+
+### 知识点 36：划线字母发音对比——元音组
+
+**87.** A. name  B. cake  C. map  D. plate —— 选出发音不同的一项。
+- **翻译**：A. 名字 B. 蛋糕 C. 地图 D. 盘子 —— 选出不同项。
+- **解析**：name、cake、plate 中的 a 在开音节中读 **/eɪ/**，只有 map 中的 a 读 **/æ/**，故选 **C**。
+
+**88.** A. eat  B. seat  C. bread  D. tea —— 选出发音不同的一项。
+- **翻译**：A. 吃 B. 座位 C. 面包 D. 茶 —— 选出不同项。
+- **解析**：eat、seat、tea 中 ea 读 **/iː/**，bread 中 ea 读 **/e/**，故选 **C**。
+
+**89.** A. good  B. food  C. book  D. cook —— 选出发音不同的一项。
+- **翻译**：A. 好的 B. 食物 C. 书 D. 烹饪 —— 选出不同项。
+- **解析**：good、book、cook 中 oo 读 **/ʊ/**，food 中 oo 读 **/uː/**，故选 **B**。
+
+**90.** A. now  B. how  C. slow  D. cow —— 选出发音不同的一项。
+- **翻译**：A. 现在 B. 怎样 C. 缓慢的 D. 奶牛 —— 选出不同项。
+- **解析**：now、how、cow 中 ow 读 **/aʊ/**，slow 中 ow 读 **/əʊ/**，故选 **C**。
+
+### 知识点 37：划线字母发音对比——辅音组
+
+**91.** A. city  B. class  C. nice  D. centre —— 选出发音不同的一项。
+- **翻译**：A. 城市 B. 班级 C. 好的 D. 中心 —— 选出不同项。
+- **解析**：city、nice、centre 中 c 读 **/s/**，class 中 c 读 **/k/**，故选 **B**。
+
+**92.** A. thank  B. three  C. this  D. think —— 选出发音不同的一项。
+- **翻译**：A. 感谢 B. 三 C. 这个 D. 想 —— 选出不同项。
+- **解析**：thank、three、think 中 th 读 **/θ/**，this 中 th 读 **/ð/**，故选 **C**。
+
+**93.** A. worked  B. called  C. finished  D. helped —— 选出发音不同的一项。
+- **翻译**：A. 工作过 B. 打电话过 C. 完成过 D. 帮助过 —— 选出不同项。
+- **解析**：worked、finished、helped 中 -ed 前是清辅音，读 **/t/**；called 中 -ed 前是浊辅音 l，读 **/d/**，故选 **B**。
+
+**94.** A. shops  B. bags  C. books  D. maps —— 选出发音不同的一项。
+- **翻译**：A. 商店复数 B. 包复数 C. 书复数 D. 地图复数 —— 选出不同项。
+- **解析**：shops、books、maps 中 s 前为清辅音，读 **/s/**；bags 中 s 前为浊辅音 g，读 **/z/**，故选 **B**。
+
+**95.** A. school  B. chair  C. cheap  D. check —— 选出发音不同的一项。
+- **翻译**：A. 学校 B. 椅子 C. 便宜的 D. 检查 —— 选出不同项。
+- **解析**：chair、cheap、check 中 ch 读 **/tʃ/**，school 中 ch 读 **/k/**，故选 **A**。
+
+### 知识点 38：同音异形与同形异音
+
+**96.** A. write  B. right  C. white  D. night —— 选出发音不同的一项。
+- **翻译**：A. 写 B. 正确 C. 白色 D. 夜晚 —— 选出不同项。
+- **解析**：write、right、night 中 i 或 igh 读 **/aɪ/**；white 中 wh 后的 i 也读 /aɪ/ 但 wh 读 **/w/**，整体仍为 /waɪt/，本题旨在记认 write 与 right **同音异形**。
+
+**97.** A. read（原形） B. read（过去式） C. meat  D. seat —— 选出发音不同的一项。
+- **翻译**：A. 读（原形） B. 读（过去式） C. 肉 D. 座位 —— 选出不同项。
+- **解析**：read 原形、meat、seat 中 ea 读 **/iː/**；read 过去式中 ea 读 **/e/**，故选 **B**，这是**同形异音**的经典例子。
+
+### 知识点 39：解题技巧与分值策略
+
+**98.** 语音题解题第一步：先判断题干划线部分的**字母或字母组合**，再看它在每个单词中的**音节位置**。
+- **翻译**：语音题解题第一步：先判断题干划线部分的字母或字母组合，再看它在每个单词中的音节位置。
+- **解析**：位置决定读音——开音节读长音、闭音节读短音；同字母在不同位置读音可能完全不同，故不能凭拼写判断。
+
+**99.** 语音题解题第二步：遇到不确定的单词，用**同类归组法**——把三个读音相同的词划掉，剩下的即为答案。
+- **翻译**：语音题解题第二步：遇到不确定的单词，用同类归组法——把三个读音相同的词划掉，剩下的即为答案。
+- **解析**：语音题**必有三项相同、一项不同**，故先找出三个确定的同音词，答案即可锁定，这是最省时的做法。
+
+**100.** 语音题解题第三步：优先复习高频组——开闭音节 a、ea 的三种读音、oo 的两种读音、-s/-ed 的读音规则。
+- **翻译**：语音题解题第三步：优先复习高频组——开闭音节 a、ea 的三种读音、oo 的两种读音、-s/-ed 的读音规则。
+- **解析**：成考语音题历年重复率高，掌握这五组规则即可覆盖绝大多数题目，配合朗读记忆效果最好。
+
+---
+
+# 易错点总结（考前必看）
+
+| 易错点 | 错误示例 | 正确示例 |
+| --- | --- | --- |
+| 开闭音节混淆 | map 读 /meɪp/ | map 读 /mæp/ |
+| ea 一律读 /iː/ | bread 读 /briːd/ | bread 读 /bred/ |
+| oo 一律读 /uː/ | good 读 /ɡuːd/ | good 读 /ɡʊd/ |
+| ow 一律读 /əʊ/ | now 读 /nəʊ/ | now 读 /naʊ/ |
+| -ed 一律读 /ɪd/ | worked 读 /ˈwɜːkɪd/ | worked 读 /wɜːkt/ |
+| -s 一律读 /s/ | bags 读 /bæɡs/ | bags 读 /bæɡz/ |
+| c 一律读 /k/ | city 读 /ˈkɪti/ | city 读 /ˈsɪti/ |
+| ch 一律读 /tʃ/ | school 读 /stʃuːl/ | school 读 /skuːl/ |
+| 名词与动词重音不分 | record（名词）读 /rɪˈkɔːd/ | 名词 /ˈrekɔːd/，动词 /rɪˈkɔːd/ |
+| 疑问句语调误用 | Are you ready? 用降调 | 一般疑问句用**升调** |
+| 完整爆破朗读 | big problem 读成 /bɪɡˈprɒbləm/ | d/g 失爆，读 /bɪˈprɒbləm/ |
+| 虚词一律强读 | I can 中 can 读 /kæn/ | 肯定句中弱读 /kən/ |
+
+---
+
+# 备考提醒
+
+1. **先练音标，再背单词**：48 个音标（20 元音 + 28 辅音）必须能认能读，尤其要分清 /iː/-/ɪ/、/æ/-/e/、/uː/-/ʊ/、/θ/-/ð/、/s/-/z/ 五组对比音。
+2. **抓住「位置决定读音」这条主线**：元音字母在**开音节**（词尾不发音 e 或单独成音节）多读字母本音，在**闭音节**多读短音；这是解释绝大多数读音现象的钥匙。
+3. **牢记四条高频规则**：① ea 的三读 /iː//e//ɪə/；② oo 的两读 /uː//ʊ/；③ -s / -es 读 /s//z//ɪz/；④ -ed 读 /t//d//ɪd/。这四组几乎每年必考。
+4. **重音记住「名前动后」**：record、increase、export、import、contract、present 等词，作**名词重音在前**，作**动词重音在后**。
+5. **朗读要带节奏**：实词重读、虚词弱读，句子才有轻重起伏；一般疑问句用升调，特殊疑问句与陈述句用降调，选择疑问句「前升后降」。
+6. **语音题用排除法**：先找出三个确定的同音词划掉，剩下的一项即答案；不要凭拼写直觉判断，要用**发音规则**推理。
+7. **商务情境补充**：谈判与函电高频词要注意重音与连读——manager /ˈmænɪdʒə/、contract /ˈkɒntrækt/、catalogue /ˈkætəlɒɡ/、confirm /kənˈfɜːm/，朗读准确会直接提升口语与听力分数。
+8. **练习方法**：每读完一条例句，先**朗读三遍**，再圈出划线字母并写出音标，最后与解析核对；一周复习一遍本文件的 12 组易错点表格。
+
